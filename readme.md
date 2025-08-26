@@ -57,7 +57,6 @@ The DisputeResolution Platform has extensive potential for growth and enhancemen
 
 **Network**: Stacks Mainnet
 
-**Deployment Block**: [To be added after deployment]
 
 **Contract Name**: dispute-resolution-platform
 
